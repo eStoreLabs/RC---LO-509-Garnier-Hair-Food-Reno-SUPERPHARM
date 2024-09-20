@@ -12,7 +12,7 @@ body {
   font-family: "Montserrat", Tahoma, Verdana, sans-serif;
   color: #28352B;
   overflow: hidden;
-  max-width: 715px;
+  max-width: 731px;
   margin: auto;
 }
 
@@ -1080,11 +1080,6 @@ body {
 
 }
 
-@media (min-width: 850px) {
-  #es-garnier.es-garnier .es-cross {
-    
-  }
-}
 
 @media (min-width: 709px) {
   #es-garnier.es-garnier .es-cross {
